@@ -10,3 +10,8 @@
   524  touch notes.md
   525  ls -a
   526  history
+  527  git status
+  528  git add .
+  529  git commit -m "added notes file"
+  530  git push
+  531  history
